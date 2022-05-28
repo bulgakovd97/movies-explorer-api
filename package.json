@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bulgakovd97/movies-explorer-api.git"
+    "url": "git+https://github.com/bulgakovd97/movies-explorer-app/backend.git"
   },
   "author": "bulgakovd97",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bulgakovd97/movies-explorer-api/issues"
+    "url": "https://github.com/bulgakovd97/movies-explorer-app/backend/issues"
   },
-  "homepage": "https://github.com/bulgakovd97/movies-explorer-api#readme",
+  "homepage": "https://github.com/bulgakovd97/movies-explorer-app/backend#readme",
   "devDependencies": {
     "eslint": "^8.2.0",
     "eslint-config-airbnb-base": "^15.0.0",
