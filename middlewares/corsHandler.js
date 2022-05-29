@@ -7,6 +7,7 @@ const corsHandler = (req, res, next) => {
     'http://movies.bulgakovd.nomoredomains.club',
     'https://movies.bulgakovd.nomoredomains.club',
     'https://api.nomoreparties.co/beatfilm-movies',
+    'https://movies-explorer-front.herokuapp.com',
     'http://localhost:3000',
   ];
 
